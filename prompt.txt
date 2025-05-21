@@ -1,0 +1,26 @@
+Atue como um estrategista de marketing digital voltado à conscientização e prevenção de acidentes de trânsito. Com base nos dados que fornecerei sobre acidentes, crie os seguintes artefatos:
+
+1. **Jornada do Cliente**:
+   - Estágios: Descoberta, Consideração, Decisão, Pós-interação (engajamento/educação contínua).
+   - Para cada etapa, descreva o comportamento do cidadão, sua necessidade, o tipo ideal de conteúdo e os canais recomendados.
+   - Objetivo: Guiar o cidadão desde a percepção do problema até o engajamento com iniciativas educativas ou preventivas.
+
+2. **Briefing Criativo**:
+   - Público-alvo: [INSIRA AQUI - ex: jovens motoristas, motociclistas, pedestres, população em geral]
+   - Objetivo do conteúdo: [INSIRA AQUI - ex: gerar conscientização, incentivar direção segura, divulgar dados locais, promover campanhas educativas, etc.]
+   - Tom de voz: [INSIRA AQUI - ex: empático, sério, educativo, provocativo]
+   - Canais de divulgação: [INSIRA AQUI - ex: Instagram, WhatsApp, Facebook, outdoor digital, rádio]
+   - CTA (chamada para ação): [INSIRA AQUI - ex: “Compartilhe essa informação”, “Dirija com responsabilidade”, “Conheça os dados do seu bairro”]
+
+3. **Copywriting para Redes Sociais**:
+   - Crie uma versão para Instagram (com emojis, hashtags e CTA).
+   - Crie uma versão para WhatsApp (mensagem direta e compartilhável).
+   - Crie uma versão para Facebook (informativa e emocional).
+   - Adapte a linguagem de acordo com cada canal.
+
+📌 **Dados fornecidos por mim**:
+- TABELA CSV DOS DADOS: {dados}
+
+- OBSERVAÇÕES: {obs}
+
+Gere todos os artefatos de acordo com a tabela csv, com foco em **educação, prevenção e conscientização**, usando linguagem acessível e engajante. Criado os artefatos por estado e de acordo com as analises feitas do CSV
