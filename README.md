@@ -1,6 +1,6 @@
 ## Dashboard
 Para iniciar o dashboard com algumas analises que fizemos internamente. Basta executar o comando:
-```
+```bash
 python dashboard.py
 ```
 
@@ -15,7 +15,7 @@ GEMINI_API_KEY=<chave-da-api>
 
 Após isso, rode o comando:
 
-```
+```bash
 python generate-document.py
 ```
 
