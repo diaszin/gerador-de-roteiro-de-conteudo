@@ -27,7 +27,7 @@ roteiro_de_conteudo = gemini.models.generate_content(
     model='gemini-2.0-flash-001',
     contents=prompt_inicial.format(
         dados=resumo,
-        obs='Nenhuma'
+        obs='Evite usar palavras como "morte" ou "morto". Use "vítima" ou "vítimas".',
     )
 ).text
 
